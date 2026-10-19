@@ -1,0 +1,47 @@
+{
+  "release": "2026.09.30",
+  "tested_environment": "MATLAB R2023b, Windows, serial and 2 single-thread workers",
+  "clean_extraction_with_space_in_path": true,
+  "historical_paths_not_on_matlab_path": true,
+  "numerical_source_signature": "9d03569732f82379392adc8c070597a44f0811b0df24a46bf5c26ab85ef2eddd",
+  "regression": {
+    "passed": true,
+    "catalog_conditions": 220,
+    "catalog_views": 232,
+    "full_trials": 1300000.0,
+    "golden_trials": 60,
+    "max_scaled_golden_error": 4.223861023692607e-15,
+    "strict_moment_checks": true,
+    "scene_checks": true,
+    "failed_mean_retained": true,
+    "full_A4_trace_checks": 4,
+    "resume_committed_unchanged": true,
+    "changed_config_rejected": true,
+    "duplicate_chunk_rejected": true,
+    "existing_lock_rejected": true,
+    "matlab_version": "23.2.0.2365128 (R2023b)"
+  },
+  "all_config_smoke": {
+    "structure_valid": true,
+    "profile": "smoke",
+    "conditions": 220,
+    "views": 232,
+    "trials": 440,
+    "batches": 220,
+    "trajectory_trials": 8,
+    "failed_trials": 0,
+    "reference_failed": 0,
+    "primary_nonfinite_across_views": 0,
+    "note": "View totals include shared conditions; numerical failures are preserved and do not erase structure validation."
+  },
+  "published_redraw": {
+    "figures": 7,
+    "curves": 70,
+    "points": 1090,
+    "titles_empty": true,
+    "font": "SimSun"
+  },
+  "all_padded_legends_fit": true,
+  "full_1300000_trial_release_rerun": false,
+  "frozen_inputs_unchanged": true
+}

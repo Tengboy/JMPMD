@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "main_figures": 7,
+  "curves": 70,
+  "points": 1090,
+  "accepted_thesis_coordinates_exact": true,
+  "published_figures_byte_identical": true
+}

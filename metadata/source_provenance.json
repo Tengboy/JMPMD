@@ -1,0 +1,256 @@
+[
+  {
+    "file": "src/functions/Ainv.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/Ainv.m",
+    "original_sha256": "d902ee93bccd4b28e7fe6ed3c70a800b5d48b02daea6e20b09c0525ca512e547",
+    "release_sha256": "a8897e5905f093a9115ece6a0b404fa1568dec1ed155ab986ff7c4b30c799a15",
+    "changes": []
+  },
+  {
+    "file": "src/functions/array.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/array.m",
+    "original_sha256": "30092a62395ca2b1e32fa33dba6e5836a400c5f59ab34169efddd3d0cf7b6108",
+    "release_sha256": "11843d9f36263fc2beb870a8b5872d68948207f998706088a4b3ac1079f12f62",
+    "changes": []
+  },
+  {
+    "file": "src/functions/array2D.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/array2D.m",
+    "original_sha256": "c8e987c8a6aace6049668ad6f711dc629d673ab6af07cc9eb403be1f78097a13",
+    "release_sha256": "8b114dea7d070a5bb11423540742360abc0c421478cd24889fbbf03c77d36afb",
+    "changes": []
+  },
+  {
+    "file": "src/functions/array_B.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/array_B.m",
+    "original_sha256": "50238e97fb5380e13e130ea9499dadacb709a1f7c5de4fe1fb9f086ddfb0d581",
+    "release_sha256": "1a7c6ac1cfbd5e7d4b7f3bc61fd9d07a3fb7248aad53a0c93fedb696da6e7096",
+    "changes": []
+  },
+  {
+    "file": "src/functions/array2D_B.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/array2D_B.m",
+    "original_sha256": "1c255774511fc0ecc4f9b848b7f92a3e48919f08b4edba6926e75af4cd621e1e",
+    "release_sha256": "bc0aed50a635448b9467f3bdb15f7c3bdf1ffe6c7aa315e3271b33aa1e4ed5cd",
+    "changes": []
+  },
+  {
+    "file": "src/functions/Bound_cal_n.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/Bound_cal_n.m",
+    "original_sha256": "c6dcd4cc5157ba3ab4e8b7cbee01d57a58680d567f412bacb9026891068f4faf",
+    "release_sha256": "c9ca76f99f03c12cb195bf93833616430951332496bbd1955864657887b95689",
+    "changes": []
+  },
+  {
+    "file": "src/functions/Bound_cal_n_X3.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/Bound_cal_n_X3.m",
+    "original_sha256": "c908c18d399ec5e5e96a37668ee2e4d81f6d2578c1d635f3f40344b54ec1b00c",
+    "release_sha256": "678652edafba22f09b80c30f9d1be1a14fd5aae8e81cbf77e862388a47d83f3a",
+    "changes": []
+  },
+  {
+    "file": "src/functions/Constell_Mat.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/Constell_Mat.m",
+    "original_sha256": "a9e3c4d30bf17e00f99f373ac264b8d8b4168419e9eecd1574b256292c2db9df",
+    "release_sha256": "18c0be70190de3372b6a4e5ec169b680354ed11adb5cad24a2944dd1b83e03c5",
+    "changes": []
+  },
+  {
+    "file": "src/functions/discrete_posterior_moments.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/discrete_posterior_moments.m",
+    "original_sha256": "a32ce99ea4f7f4ebf2a4c3961b153a702834f05bd5827cc8ea874611a6429477",
+    "release_sha256": "a32ce99ea4f7f4ebf2a4c3961b153a702834f05bd5827cc8ea874611a6429477",
+    "changes": []
+  },
+  {
+    "file": "src/functions/Heuristic3.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/Heuristic3.m",
+    "original_sha256": "919068f3b49af04274a9a0b0531ea4f5f477a634e6b1efa0ae87fd46710259ad",
+    "release_sha256": "919068f3b49af04274a9a0b0531ea4f5f477a634e6b1efa0ae87fd46710259ad",
+    "changes": []
+  },
+  {
+    "file": "src/functions/iteration_status.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/iteration_status.m",
+    "original_sha256": "27fa71aaa8a630891af0b335545b65082d50bccda3eb72d57cd7ce8502f8073e",
+    "release_sha256": "27fa71aaa8a630891af0b335545b65082d50bccda3eb72d57cd7ce8502f8073e",
+    "changes": []
+  },
+  {
+    "file": "src/functions/KR.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/KR.m",
+    "original_sha256": "8e513c5c20e3caea869ba074fedfebb9a0c203a2ec1d1fd39df9250264faa60c",
+    "release_sha256": "90aa13768a2a533d313afbcc6bf31a60ad61e3659ca40888a8775cb9528780ed",
+    "changes": []
+  },
+  {
+    "file": "src/functions/linespec.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/linespec.m",
+    "original_sha256": "640601122dd2ebea66eefd38118b212d1adc23c73be8acaec1f0aef9f14b0fc1",
+    "release_sha256": "7338e9a0b5138ac29972e096fab0d0523f2235e8e6f326bf9f825e50d87ae788",
+    "changes": []
+  },
+  {
+    "file": "src/functions/probe_lag_dictionary.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/probe_lag_dictionary.m",
+    "original_sha256": "75e0fdb70ba90c2fb2228283531a747c7803c72cf7e317154c40ed37ddae5bc0",
+    "release_sha256": "75e0fdb70ba90c2fb2228283531a747c7803c72cf7e317154c40ed37ddae5bc0",
+    "changes": []
+  },
+  {
+    "file": "src/functions/ris_lag_sum.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/ris_lag_sum.m",
+    "original_sha256": "0e3b0ba727740171c0d5d657827d68c9555b70e1776b998f18ce6c30d84a5f57",
+    "release_sha256": "0e3b0ba727740171c0d5d657827d68c9555b70e1776b998f18ce6c30d84a5f57",
+    "changes": []
+  },
+  {
+    "file": "src/functions/steering_power.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/steering_power.m",
+    "original_sha256": "62478335667fd363149cf08134102fed03d6a5019c5295af76ed11f034f56007",
+    "release_sha256": "62478335667fd363149cf08134102fed03d6a5019c5295af76ed11f034f56007",
+    "changes": []
+  },
+  {
+    "file": "src/functions/taylor_localization.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/taylor_localization.m",
+    "original_sha256": "0a8f13c58f8abf34e1f57c376cbcc37cc371e4e892d62ecbe0b2ec8aaac8472a",
+    "release_sha256": "0a8f13c58f8abf34e1f57c376cbcc37cc371e4e892d62ecbe0b2ec8aaac8472a",
+    "changes": []
+  },
+  {
+    "file": "src/functions/vb_data_gram.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/vb_data_gram.m",
+    "original_sha256": "ac6519305ba2ff2f942b1f195c800c3f2134562b14a54ec86c6c8cbb655d59ea",
+    "release_sha256": "ac6519305ba2ff2f942b1f195c800c3f2134562b14a54ec86c6c8cbb655d59ea",
+    "changes": []
+  },
+  {
+    "file": "src/functions/vb_gain_gram.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/vb_gain_gram.m",
+    "original_sha256": "ad1bed55eddd8fffabd1dae5fa5166a18f9fee235f8d7e69e37a3000e04d5f5d",
+    "release_sha256": "ad1bed55eddd8fffabd1dae5fa5166a18f9fee235f8d7e69e37a3000e04d5f5d",
+    "changes": []
+  },
+  {
+    "file": "src/functions/vb_steering_moments.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/functions/vb_steering_moments.m",
+    "original_sha256": "dd4719a1773195241b4ad4700ebc38c23dc0aa70b0da0b1ae55140340156c0bb",
+    "release_sha256": "dd4719a1773195241b4ad4700ebc38c23dc0aa70b0da0b1ae55140340156c0bb",
+    "changes": []
+  },
+  {
+    "file": "src/estimate_q_j.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/estimate_q_j.m",
+    "original_sha256": "61933687420fa5d72d34a3fb66a4e8221985963c183a38951a553a247e6b7e99",
+    "release_sha256": "5a7fd0c358c1e0314da9032bea7dea811b76e8333923e04839defd280e82ad2e",
+    "changes": [
+      "Only current local angle solver is distributed; removed legacy selector."
+    ]
+  },
+  {
+    "file": "src/estimate_q_p.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/estimate_q_p.m",
+    "original_sha256": "82fbf9b03e279aa18d5155cfa66f008dc656e69dc20c22dcb02e46b42e4e4c82",
+    "release_sha256": "7caff74878dfc7a4d44f3a63c3525d5b668243a106574d2fdb48cf6b4cfbda8a",
+    "changes": [
+      "Removed unused gX constructor (its value was never read).",
+      "Only current local angle solver is distributed; removed legacy selector."
+    ]
+  },
+  {
+    "file": "src/estimate_q_w.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/estimate_q_w.m",
+    "original_sha256": "67f8c4e25c3a9a5d0e763e3c8e2f238facb605eecd7314c64ce4247f5f824a86",
+    "release_sha256": "a8dd7d2fd0d627088143fff92669a4d25bc7783e78da41cbd524a90bec5e2207",
+    "changes": [
+      "Only current local angle solver is distributed; removed legacy selector."
+    ]
+  },
+  {
+    "file": "src/estimate_g_j_warm.m",
+    "origin": "reproduction/array_scaling_20260928/B3_G/source/estimate_g_j_warm.m",
+    "original_sha256": "6fab8a5eb7c6eafed538f6dbc246c6bfd019acd05bf6e6a4a5b1e9cf95a0d820",
+    "release_sha256": "cf74bf60615ce3a8271cd6df72182ab770bcc83a8ffec12c78ff63bd1e593e04",
+    "changes": []
+  },
+  {
+    "file": "src/estimate_g_w_warm.m",
+    "origin": "reproduction/array_scaling_20260928/B3_G/source/estimate_g_w_warm.m",
+    "original_sha256": "c99477a2beac0f49cd729ca40cb0820a636db3b6fbc612c0c14d35c87490e6ea",
+    "release_sha256": "94633585920de70a9cf05e9c9a9e79fe3ebedab9728ea7324b5babc7d91c1b2b",
+    "changes": []
+  },
+  {
+    "file": "src/estimate_g_p.m",
+    "origin": "reproduction/array_scaling_20260928/B3_G/source/estimate_g_p.m",
+    "original_sha256": "ce007f6ab8e1d51843642a869ce0b02581d629bba040d7226d7ae4125aeac979",
+    "release_sha256": "23b8f5a3a1bf2136b5c4386b964c7b56368ac4d08cf336fe45a49ad62f30c72b",
+    "changes": [
+      "Corrected stale comment; initialization code is unchanged."
+    ]
+  },
+  {
+    "file": "src/make_scene.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/make_scene.m",
+    "original_sha256": "36104a7c27c1b9b50a88b8a7ceb29adeb2c92971a7e4bbb8b845fbec95c5b2b7",
+    "release_sha256": "36104a7c27c1b9b50a88b8a7ceb29adeb2c92971a7e4bbb8b845fbec95c5b2b7",
+    "changes": []
+  },
+  {
+    "file": "src/synthesize_nlos.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/synthesize_nlos.m",
+    "original_sha256": "8c3d0fa4b132fda5844d0b800cea019115533b11b974d2aa88e3e5254dd3fcc0",
+    "release_sha256": "5f58a12ec91e02e2b2faf815e33c9300ffb813e166e06ba8e952feddb4391765",
+    "changes": []
+  },
+  {
+    "file": "src/reference_q.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/reference_q.m",
+    "original_sha256": "e9b64353309f1ee9c42bc19ab1c22298b938f152131ba1b2948943262da600c9",
+    "release_sha256": "43ffd7b3748f7837e98734ce0d803a915246292d638b0a4a1ed9748e454f890d",
+    "changes": []
+  },
+  {
+    "file": "src/reference_g.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/reference_g.m",
+    "original_sha256": "78e03ff8bf4882ec69df4a35739fcebcb5b101d7d64f3fdfeb4b547d6ad03a1e",
+    "release_sha256": "d3af088ced6edec34669742debbf339f55b2a81b98c297b4c80351d5c09df735",
+    "changes": []
+  },
+  {
+    "file": "src/suite_reference.m",
+    "origin": "reproduction/qpsk_unified_20260929/source/suite_reference.m",
+    "original_sha256": "2a5d90b9b674ba2e5629ac088f08d1c6549c8528b86674bd4814e368b4b7637a",
+    "release_sha256": "8d96bfa3c82f37a907c667dac2fbc916da4b30b85d9803f945288f1491580fdd",
+    "changes": []
+  },
+  {
+    "file": "src/pilot_initial_angles.m",
+    "origin": "reproduction/qpsk_unified_20260929/pilot_initial_angles.m",
+    "original_sha256": "292364f8cb227f51c53f12b7139362fac9d2883d4dce6088d79331acaae9c2f2",
+    "release_sha256": "292364f8cb227f51c53f12b7139362fac9d2883d4dce6088d79331acaae9c2f2",
+    "changes": []
+  },
+  {
+    "file": "private/record_columns.m",
+    "origin": "reproduction/qpsk_unified_20260929/record_columns.m",
+    "original_sha256": "b228820521c96b117ce0da2c4a52ad375685d4acf5a4d692705d08c2e35695f4",
+    "release_sha256": "b228820521c96b117ce0da2c4a52ad375685d4acf5a4d692705d08c2e35695f4",
+    "changes": []
+  },
+  {
+    "file": "private/summarize_records.m",
+    "origin": "reproduction/qpsk_unified_20260929/summarize_records.m",
+    "original_sha256": "3fc164d97ca6b1ba79cae8346fb0b644e0aa4dba11fbb905226769bd33e14386",
+    "release_sha256": "3fc164d97ca6b1ba79cae8346fb0b644e0aa4dba11fbb905226769bd33e14386",
+    "changes": []
+  },
+  {
+    "file": "tests/test_strict_moments.m",
+    "origin": "reproduction/qpsk_unified_20260929/test_strict_moments.m",
+    "original_sha256": "7d76b5294411ab518860267da7f93f3edf98b70d3a00c3e4cb655a920389e8f5",
+    "release_sha256": "7d76b5294411ab518860267da7f93f3edf98b70d3a00c3e4cb655a920389e8f5",
+    "changes": []
+  }
+]

@@ -1,0 +1,17 @@
+# Generated local simulations and exports; never distribute raw trials.
+/runs/
+/validation_run/
+/replotted/
+/figures_*/
+*.mat
+*.fig
+*.pending
+*.log
+*.asv
+RUNNING.lock
+STOP_AFTER_CHECKPOINT
+matlab_prefs*/
+parallel_jobs*/
+__pycache__/
+.DS_Store
+Thumbs.db

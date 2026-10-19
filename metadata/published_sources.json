@@ -1,0 +1,27 @@
+[
+  {
+    "id": "q",
+    "filename": "q.csv",
+    "sha256": "981bdd05b452f9d7b0db85d66ba71b74e56c0efcde029b649d5bfa16cf2a05fb"
+  },
+  {
+    "id": "g_snr",
+    "filename": "g_snr.csv",
+    "sha256": "f3932b6fdff82dab13c4df294b5b75aeda9eb676874e3c8e6bc016ccd9bf7553"
+  },
+  {
+    "id": "g_strict",
+    "filename": "g_strict.csv",
+    "sha256": "18206439e22f0061e51aae1a5b1ee6c53e9e3998f7e2b09e4605ff5ce0f0e251"
+  },
+  {
+    "id": "g_a3",
+    "filename": "g_a3.csv",
+    "sha256": "f6fccfb146c886634ad61e07d1b94d43adaa49bcd0c86a3945e87879c3be3dab"
+  },
+  {
+    "id": "g_b3",
+    "filename": "g_b3.csv",
+    "sha256": "802f713f7b1446ba1561c80a60931c01e75438e79f4d7678bd1ed089d4a8dd5d"
+  }
+]
